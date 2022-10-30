@@ -24,3 +24,5 @@ Esta classe é herdada do jogo asteroids, ela instância uma bola e é responsá
 window.cpp
 
 Esta classe é a que coordena todo o jogo ela possui um contador de pontos para cada jogador, dessa forma sempre que um jogador faz um ponto é incrementado no placar dele um ponto,a rebatida também é controlada por essa classe, que observa se a bola está dentro do raio esperado e da distancia esperada para rebater a bola, ao sair do mapa 
+
+![image](https://user-images.githubusercontent.com/61333997/198894460-cb631729-16a8-4d7b-9e18-a9fbf8eb702b.png)
